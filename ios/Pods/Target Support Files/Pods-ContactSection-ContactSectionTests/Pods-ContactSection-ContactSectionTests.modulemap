@@ -1,0 +1,6 @@
+module Pods_ContactSection_ContactSectionTests {
+  umbrella header "Pods-ContactSection-ContactSectionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
